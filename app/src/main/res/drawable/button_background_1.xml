@@ -1,0 +1,16 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Border -->
+    <item>
+        <shape>
+            <solid android:color="#D2691E"/> <!-- Border color -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+    <!-- Background -->
+    <item android:left="2dp" android:right="2dp" android:top="2dp" android:bottom="2dp">
+        <shape>
+            <solid android:color="#D2691E"/> <!-- Button background color (light pink) -->
+            <corners android:radius="8dp"/>
+        </shape>
+    </item>
+</layer-list>

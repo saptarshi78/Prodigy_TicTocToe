@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme -->
+    <style name="Theme.TicTacToe" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+
+    <!-- Define the GridButtonStyle here -->
+    <style name="GridButtonStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">@color/white</item> <!-- Updated to white for better visibility -->
+        <item name="android:textSize">24sp</item>
+        <item name="android:padding">16dp</item>
+        <item name="android:layout_margin">4dp</item> <!-- Add margin for spacing between buttons -->
+    </style>
+</resources>

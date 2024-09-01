@@ -1,0 +1,15 @@
+<resources>
+    <color name="romanticPink">#bc6a3c</color> <!-- Romantic pink color -->
+    <color name="glow_color">#000000</color>
+    <color name="white">#000000</color>
+    <color name="black">#000000</color>
+    <color name="colorAccent">#bc6a3c</color> <!-- Set accent color to pink glow -->
+    <color name="green">#000000</color>
+    <!-- res/values/colors.xml -->
+    <color name="buttonBackground">#bc6a3c</color> <!-- Orange -->
+    <color name="colorPrimary">#FFFFFF</color> <!-- Orange -->
+    <color name="colorPrimaryDark">#E64A19</color> <!-- Darker Orange -->
+    <color name="splash">#75e6da</color>
+    <color name="coffe">#D2691E</color>
+    <color name="txt">#8B0000</color>
+</resources>
